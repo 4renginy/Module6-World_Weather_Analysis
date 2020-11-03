@@ -1,1 +1,0 @@
-gmaps.configure(api_key=g_key)
