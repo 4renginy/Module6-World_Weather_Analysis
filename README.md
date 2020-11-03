@@ -18,4 +18,5 @@ We already have a great app but there are a few suggestions we think it is worth
 
 ![](https://github.com/4renginy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)<br>
 <br>
-![] (https://github.com/4renginy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
+![] (https://github.com/4renginy/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)<br>
+<br>
